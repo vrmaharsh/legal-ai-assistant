@@ -21,6 +21,8 @@ An intelligent legal assistant that helps users understand Indian Penal Code (IP
 ## Live Demo
 
 Check out the live demo: [Legal AI Assistant](https://legal420ai-orv15ojpo-harshs-projects-7fc72ff5.vercel.app)
+<img width="1085" alt="image" src="https://github.com/user-attachments/assets/2ac5151b-0345-4879-a4dc-abfc4b56a5f3" />
+
 
 ## Getting Started
 
